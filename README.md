@@ -39,3 +39,23 @@ This project was built as the final assignment for a front-end web development c
 - **Vite** — build tool and dev server
 
 ## Project Structure
+paradise-nursery/
+├── public/
+├── src/
+│ ├── components/
+│ │ ├── AboutUs.jsx
+│ │ ├── Navbar.jsx
+│ │ ├── ProductList.jsx
+│ │ └── CartItem.jsx
+│ ├── redux/
+│ │ ├── CartSlice.jsx
+│ │ └── store.js
+│ ├── App.jsx
+│ ├── App.css
+│ ├── main.jsx
+│ └── index.css
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+
